@@ -2,4 +2,4 @@ language = "cpp"
 #run = "clang++-7 -pthread -std=c++17 -o one one.cpp"
 #run = echo -e "Enter in files" files ; g++ $files ; ./a.out
 #run = "g++ -o test.out one.cpp; ./test.out"
-run = "g++ ./ACM-ICPC/1000.cpp; ./a.out"
+run = "g++ ./ACM-ICPC/1000.c; ./a.out"
